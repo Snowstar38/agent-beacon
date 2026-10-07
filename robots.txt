@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snowstar38.github.io/agent-beacon/sitemap.xml
